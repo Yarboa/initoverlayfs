@@ -41,4 +41,3 @@ if [ "$exit_code" != "0" ]; then
 fi
 
 /usr/local/bin/tmt-reboot
-
